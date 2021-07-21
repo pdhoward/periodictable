@@ -10,6 +10,7 @@ const colorMap = {
   "alkali metal": "#8F2D56",
   "transition metal": "#58586B",
   "post-transition metal": "#218380",
+  "modern": "#D81159",
   lanthanide: "#4AABAF",
   metalloid: "#73D2DE",
 };
