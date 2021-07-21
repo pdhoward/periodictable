@@ -11,6 +11,9 @@ const colorMap = {
   "transition metal": "#58586B",
   "post-transition metal": "#218380",
   "modern": "#D81159",
+  "orange": "#EC674E",
+  "pink": "#8F2D56",
+  "blue": "#0000FF",
   lanthanide: "#4AABAF",
   metalloid: "#73D2DE",
 };

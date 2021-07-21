@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App bg-black text-white"> 
        <header>
-        <h3>
+        <h4>
           MSS International         
-        </h3>
-        <h5>
+        </h4>
+        <h6>
           Select a Data Modernization Pattern        
-        </h5>
+        </h6>
       </header>  
       <PeriodicTable />
     </div>
